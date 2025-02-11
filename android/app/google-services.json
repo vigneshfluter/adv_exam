@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119921678070",
+    "project_id": "af-contacts-7d8eb",
+    "storage_bucket": "af-contacts-7d8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119921678070:android:3dac270fef0ff3ee06bed7",
+        "android_client_info": {
+          "package_name": "com.example.af_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBARdgAvm9ScDQNNxYReTH_pPksWMydy8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
